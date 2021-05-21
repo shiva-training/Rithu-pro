@@ -2,7 +2,6 @@
    <header><title>this is the tittle</title></header>
 </body>
 hello world !!!!!
-m chesthunav
-bagunava
+namasthe
 </body>
 </html>
