@@ -1,9 +1,7 @@
-</html>
+<html>
    <header><title>this is the tittle</title></header>
-</body>
+<body>
 hello world !!!!!
-namasthe
-bagunava
-m chesthunav
+congrat's yous first pipeline was success
 </body>
 </html>
